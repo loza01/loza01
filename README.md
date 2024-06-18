@@ -5,10 +5,8 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
     </div>
-     Hello, I'm Loza
-  </div>
-  <div align ="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+     <img src="https://komarev.com/ghpvc/?username=your-github-loza01&style=flat-square&color=blue" alt=""/>
+    <h1 align="center">Hi 👋, I'm Loza</h1>
   </div>
   
   ---
