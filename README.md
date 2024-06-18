@@ -31,8 +31,9 @@ I bring a blend of technical expertise and people skills to project management. 
   
   - :zap: In my free time, I solve problems on GeeksforGeeks, and Codewars, read tech articles and listen to broadcasts.
   
-  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]<a href="https://www.linkedin.com/in/loza-tadesse"></a>
-  
+  - :mailbox: How to reach me: <p align="left">
+<a href="https://www.linkedin.com/in/loza-tadesse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rebeccanoy" height="30" width="40" /></a>
+</p>
   ---
   
   ### :hammer_and_wrench: Languages and Tools :
