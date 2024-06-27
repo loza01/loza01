@@ -21,8 +21,6 @@
   - :telescope: I’m working on my project - coming soon :)
   - 👷:  Previously I have been working in different companies related to IT and development, as a programmer.
   
-  - :seedling: Take a look at my <a href = "https://loza01.github.io/Loza-Tadesse">portfolio</a>
-  
   - :zap: In my free time, I solve problems on GeeksforGeeks, and Codewars, read tech articles and listen to broadcasts.
   
   - :mailbox: How to reach me: <p align="left">
