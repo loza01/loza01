@@ -18,12 +18,6 @@
   My passion for solving problems drives me to excel in creating seamless user experiences and efficient full-stack systems. My expertise spans across front- 
   end frameworks like React, React Native and backend technologies such as Node.js, JavaScript, Python, and SQL...
 
-### 📑 Scientific Research: 
-With a Master's degree in Cognitive Systems and Interactive Media, I have a strong foundation in scientific research related to interactive technologies such as AI, AR, VR, and robotics, among others. I specialize in applying advanced research methodologies to solve complex problems, including data science. My work often involves integrating cognitive science principles with cutting-edge technology.
-
-### 📂 Project Management:
-I bring a blend of technical expertise and people skills to project management. My background in Computer Science and recent training in full-stack development enable me to manage technical projects effectively. I'm adept at coordinating cross-functional teams to deliver projects on time and within budget. My approach focuses on aligning engineering, design, and sales goals to achieve project success.
-
   - :telescope: I’m working on my project - coming soon :)
   - 👷:  Previously I have been working in different companies related to IT and development, as a programmer.
   
