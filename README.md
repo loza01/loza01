@@ -29,11 +29,6 @@
   ---
   
   ### :fire: My Stats :
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=loza01&show_icons=true&locale=en" alt="loza01" /></p>
-  </br>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loza01" alt="loza01" /></p>
-  
- 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loza01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
    [![trophy](https://github-profile-trophy.vercel.app/?username=loza01&title=Repositories,Commits,Issues,PullRequests,Reviews,MultiLanguage&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
