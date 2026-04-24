@@ -11,23 +11,6 @@
   
   ---
   
-  ### :woman_technologist: About Me :
-  I am a Full Stack Developer, With a background degree in Computer Science.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  I also do research. I can combine both for better results using my background skills I gained through my Master's in Cognitive Systems and Interactive Media.
-  ### 🚀 Expertise:
-  My passion for solving problems drives me to excel in creating seamless user experiences and efficient full-stack systems. My expertise spans across front- 
-  end frameworks like React, React Native and backend technologies such as Node.js, JavaScript, Python, and SQL...
-
-  - :telescope: I’m working on my project - coming soon :)
-  - 👷:  Previously I have been working in different companies related to IT and development, as a programmer.
-  - 🌱 Visit my <a href = "https://loza01.github.io/Loza-Tadesse/">portfolio<a>
-  - :zap: In my free time, I solve problems on GeeksforGeeks, and Codewars, read tech articles and listen to broadcasts.
-  
-  - :mailbox: How to reach me: <p align="left">
-<a href="https://www.linkedin.com/in/loza-tadesse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loza01" height="30" width="40" /></a>
-</p>
-  ---
-  
   ### :hammer_and_wrench: Languages and Tools :
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
