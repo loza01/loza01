@@ -18,5 +18,6 @@
 
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=purple&label=Total%20PRs&query=total_count&url=https://api.github.com/search/issues?q=author:loza01+type:pr" />
 </div>
+<img src="https://github-readme-stats.vercel.app/api?username=loza01&show_icons=true&theme=radical" />
 
 
