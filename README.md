@@ -11,6 +11,12 @@
   
   ---
   
-  
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/loza-tadesse">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=purple&label=Total%20PRs&query=total_count&url=https://api.github.com/search/issues?q=author:loza01+type:pr" />
+</div>
 
 
