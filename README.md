@@ -1,9 +1,8 @@
-** Contact me on - **
+# **Contact Me**
 
 <br>
 
 [![Email](https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lozatmamo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-0A66C2?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/YOUR_USERNAME)
 
 </div>
@@ -41,21 +40,15 @@
 
 # 📊 // SYSTEM_STATS
 
-<div align="center">
+<div align="center"> <!-- GitHub stats (includes private + all commits if enabled) -->
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true"/>
+
+<!-- Streak stats -->
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
+</div> <br> <div align="center"> <!-- Full activity graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/> </div>
 
 ---
 
