@@ -1,99 +1,119 @@
+````md
 <div align="center">
 
-<!-- LaTeX Engine used to force render LOZA in a true vivid Red Terminal Font -->
-```math
-\(\huge\mathbf{\color{#FF3333}{\quad L\ \ O\ \ Z\ \ A \quad}} \%\%\)MAGIT_PARSER_PROTECT%%```
+# 🔴 LOZA
 
-`root@loza01: ~ $ ./init_profile.sh`
+```bash
+root@loza01:~$ ./init_profile.sh
+````
 
 **I sleep 💤 | sing 🎤 | code 💻 | run 🏃‍♀️ | read 📚 | write ✍️ | repeat 🔄**
 
-<br />
+<br>
 
-<!-- Standardized blue minimalist link badges with exact logo icon embeds -->
-[![Email](https://shields.io)](mailto:lozatmamo@gmail.com)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Instagram](https://shields.io)](https://instagram.com)
+[![Email](https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lozatmamo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-0A66C2?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/YOUR_USERNAME)
 
-<br />
-
-## 👤 // ~ who
-
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <td>
-      🚀 <b>Role:</b> Technical Product Owner / Product Manager<br>
-      📍 <b>Location:</b> Barcelona, Spain (Open to Relocation)<br>
-      🎓 <b>Education:</b> Master's in Cognitive Systems and Interactive Media (UPF) | BSc. Computer Science<br>
-      💻 <b>Focus:</b> Full-Stack, AI, Web Development & Human-Computer Interaction (HCI / BCIs)<br>
-      📚 <b>Research:</b> Published AR Research Co-Author (ACM)<br>
-      💡 <b>Mindset:</b> Passionate about Agile workflows (Scrum/SAFe), Data Analytics, and Open Source
-    </td>
-  </tr>
-</table>
-
-### 🎯 [HOBBIES & INTERESTS]
-⛺ Hiking | 🎾 Paddle & Tennis | 🏇 Horse Riding | ✈️ Travel | 🎸 Concerts
+</div>
 
 ---
 
-## 📊 // SYSTEM_STATS
+# 👤 // ~ who
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <!--START_SECTION:total-contributions-->
-      <h3>{{ COMMITS }}</h3>
-      <p>Total Contributions</p>
-      <!--END_SECTION:total-contributions-->
-    </td>
-    <td align="center" width="34%">
-      <!-- Automated dynamic streak tracker fetching account telemetry on refresh -->
-      <img src="https://herokuapp.com" alt="GitHub Streak" />
-    </td>
-    <td align="center" width="33%">
-      <!--START_SECTION:streak-stats-->
-      <h3>{{ STRK_LONGEST }}</h3>
-      <p>Longest Streak</p>
-      <!--END_SECTION:streak-stats-->
-    </td>
-  </tr>
+<table>
+<tr>
+<td>
+
+🚀 **Role:** Technical Product Owner / Product Manager
+
+📍 **Location:** Barcelona, Spain *(Open to Relocation)*
+
+🎓 **Education:** Master's in Cognitive Systems & Interactive Media (UPF)
+🎓 **Degree:** BSc Computer Science
+
+💻 **Focus:** Full-Stack, AI, Web Development & Human-Computer Interaction (HCI / BCI)
+
+📚 **Research:** Published AR Research Co-Author (ACM)
+
+💡 **Mindset:** Passionate about Agile workflows (Scrum / SAFe), Data Analytics, Product Strategy, and Open Source
+
+</td>
+</tr>
 </table>
 
-<br />
+### 🎯 [HOBBIES & INTERESTS]
 
-## 🛠️ // TECH_STACK
+⛺ Hiking • 🎾 Padel & Tennis • 🏇 Horse Riding • ✈️ Travel • 🎸 Concerts
 
-### [LANGUAGES & FRAMEWORKS]
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![Node.js](https://shields.io)
-![React](https://shields.io)
-![C++](https://shields.io)
-![SQL](https://shields.io)
-![PostgreSQL](https://shields.io)
+---
 
-<br />
+# 📊 // SYSTEM_STATS
 
-### [MANAGEMENT & METHODOLOGIES]
-![Agile](https://shields.io)
-![Scrum](https://shields.io)
-![SAFe](https://shields.io)
-![Jira](https://shields.io)
-![Asana](https://shields.io)
-![Trello](https://shields.io)
+<div align="center">
 
-<br />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### [TOOLS & INFRASTRUCTURE]
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![Docker](https://shields.io)
-![AWS](https://shields.io)
-![Azure](https://shields.io)
-![Figma](https://shields.io)
-![OpenCV](https://shields.io)
-![LaTeX](https://shields.io)
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🛠️ // TECH_STACK
+
+### [LANGUAGES & FRAMEWORKS]
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=node.js)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge\&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql)
+
+### [MANAGEMENT & METHODOLOGIES]
+
+![Agile](https://img.shields.io/badge/Agile-111111?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-111111?style=for-the-badge)
+![SAFe](https://img.shields.io/badge/SAFe-111111?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-111111?style=for-the-badge\&logo=jira)
+![Asana](https://img.shields.io/badge/Asana-111111?style=for-the-badge\&logo=asana)
+![Trello](https://img.shields.io/badge/Trello-111111?style=for-the-badge\&logo=trello)
+
+### [TOOLS & INFRASTRUCTURE]
+
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge\&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-111111?style=for-the-badge\&logo=microsoftazure)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge\&logo=figma)
+![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge\&logo=opencv)
+![LaTeX](https://img.shields.io/badge/LaTeX-111111?style=for-the-badge\&logo=latex)
+
+---
+
+<div align="center">
+
+```bash
+root@loza01:~$ whoami
+
+Technical Product Owner
+Product Manager
+Builder
+Researcher
+Lifelong Learner
+```
+
+</div>
+```
