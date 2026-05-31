@@ -1,13 +1,4 @@
-````md
-<div align="center">
-
-# 🔴 LOZA
-
-```bash
-root@loza01:~$ ./init_profile.sh
-````
-
-**I sleep 💤 | sing 🎤 | code 💻 | run 🏃‍♀️ | read 📚 | write ✍️ | repeat 🔄**
+** Contact me on - **
 
 <br>
 
