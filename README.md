@@ -1,29 +1,25 @@
 
 <div align="center">
+```text { .ansi-red }
+ ___       ________  ________  ________      
 
-```text
- ________  ___  ___  ________  ________  ___  ___  _______   ___       ________     
-
-
-|\   __  \|\  \|\  \|\   __  \|\   __  \|\  \|\  \|\  ___ \ |\  \     |\   __  \    
-\ \  \|\  \ \  \\\  \ \  \|\  \ \  \|\  \ \  \\\  \ \   __/| \ \  \    \ \  \|\  \   
- \ \  \\\  \ \  \\\  \ \   __  \ \   __  \ \   __  \ \  \_|/__\ \  \    \ \  \\\  \  
-  \ \  \\\  \ \  \\\  \ \  \ \  \ \  \ \  \ \  \ \  \ \  \_|\ \\ \  \____\ \  \\\  \ 
-   \ \_______\ \_______\ \__\ \__\ \__\ \__\ \__\ \__\ \_______\ \_______\ \_______\
-    \|_______|\|_______|\|__|\|__|\|__|\|__|\|__|\|__|\|_______|\|_______|\|_______|
-                                                                                    
+|\  \     |\   __  \|\_____  \|\   __  \     
+\ \  \    \ \  \|\  \|_____\/ /\ \  \|\  \    
+ \ \  \    \ \  \\\  \     / /  \ \   __  \   
+  \ \  \____\ \  \\\  \   / /____\ \  \ \  \  
+   \ \_______\ \_______\ /_______|\ \__\ \__\ 
+    \|_______|\|_______|\|_______| \|__|\|__| 
+                                              
 ```
 
 `root@loza01: ~ $ ./init_profile.sh`
-
-**I sleep | sing | code | run | read | write | repeat**
 
 <br />
 
 [![email](https://shields.io)](mailto:lozatmamo@gmail.com)
 [![linkedin](https://shields.io)](https://www.linkedin.com/in/loza-tadesse)
-[![website](https://shields.io)](https://loza01.github.io/Loza-Tadesse/)
-[![instagram](https://shields.io)](https://instagram.com)
+[![instagram](https://shields.io)](https://www.instagram.com/lamlozi?igsh=MTJnZmpneHM1dXQ2Yw%3D%3D)
+
 
 <br />
 
