@@ -1,30 +1,23 @@
 <div align="center">
 
-```text { .ansi-red }
- ___       ________  ________  ________      
+<!-- LaTeX Engine used to force render LOZA in a true vivid Red Terminal Font -->
+```math
+\(\huge\mathbf{\color{#FF3333}{\quad L\ \ O\ \ Z\ \ A \quad}} \%\%\)MAGIT_PARSER_PROTECT%%```
 
-|\  \     |\   __  \|\_____  \|\   __  \     
-\ \  \    \ \  \|\  \|_____\/ /\ \  \|\  \    
- \ \  \    \ \  \\\  \     / /  \ \   __  \   
-  \ \  \____\ \  \\\  \   / /____\ \  \ \  \  
-   \ \_______\ \_______\ /_______|\ \__\ \__\ 
-    \|_______|\|_______|\|_______| \|__|\|__| 
-                                              
-  root@loza01: ~ \$ ./init_profile.sh
-```
+`root@loza01: ~ $ ./init_profile.sh`
 
-**I sleep | sing | code | run | read | write | repeat**
+**I sleep 💤 | sing 🎤 | code 💻 | run 🏃‍♀️ | read 📚 | write ✍️ | repeat 🔄**
 
 <br />
 
-[![email](https://shields.io)](mailto:lozatmamo@gmail.com)
-[![linkedin](https://shields.io)](https://www.linkedin.com/in/loza-tadesse)
-[![website](https://shields.io)](https://github.io)
-[![instagram](https://shields.io)](https://www.instagram.com/lamlozi?igsh=MTJnZmpneHM1dXQ2Yw%3D%3D)
+<!-- Standardized blue minimalist link badges with exact logo icon embeds -->
+[![Email](https://shields.io)](mailto:lozatmamo@gmail.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Instagram](https://shields.io)](https://instagram.com)
 
 <br />
 
-## // ~ who
+## 👤 // ~ who
 
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
@@ -39,12 +32,12 @@
   </tr>
 </table>
 
-### [HOBBIES & INTERESTS]
+### 🎯 [HOBBIES & INTERESTS]
 ⛺ Hiking | 🎾 Paddle & Tennis | 🏇 Horse Riding | ✈️ Travel | 🎸 Concerts
 
 ---
 
-## // SYSTEM_STATS
+## 📊 // SYSTEM_STATS
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
@@ -55,6 +48,7 @@
       <!--END_SECTION:total-contributions-->
     </td>
     <td align="center" width="34%">
+      <!-- Automated dynamic streak tracker fetching account telemetry on refresh -->
       <img src="https://herokuapp.com" alt="GitHub Streak" />
     </td>
     <td align="center" width="33%">
@@ -68,7 +62,7 @@
 
 <br />
 
-## // TECH_STACK
+## 🛠️ // TECH_STACK
 
 ### [LANGUAGES & FRAMEWORKS]
 ![Python](https://shields.io)
