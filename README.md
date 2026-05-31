@@ -1,5 +1,5 @@
-
 <div align="center">
+
 ```text { .ansi-red }
  ___       ________  ________  ________      
 
@@ -10,29 +10,37 @@
    \ \_______\ \_______\ /_______|\ \__\ \__\ 
     \|_______|\|_______|\|_______| \|__|\|__| 
                                               
+  root@loza01: ~ \$ ./init_profile.sh
 ```
 
-`root@loza01: ~ $ ./init_profile.sh`
+**I sleep | sing | code | run | read | write | repeat**
 
 <br />
 
 [![email](https://shields.io)](mailto:lozatmamo@gmail.com)
 [![linkedin](https://shields.io)](https://www.linkedin.com/in/loza-tadesse)
+[![website](https://shields.io)](https://github.io)
 [![instagram](https://shields.io)](https://www.instagram.com/lamlozi?igsh=MTJnZmpneHM1dXQ2Yw%3D%3D)
-
 
 <br />
 
 ## // ~ who
 
-**Technical Product Owner & Developer**
-📍 Based in Barcelona, Spain | Open to Relocation
-🎓 Master's in Cognitive Systems and Interactive Media (UPF) | BSc. Computer Science
-🚀 Technical Product Owner or Product Manager 
-💻 Background in Full-Stack, AI,  Web Development and Researcher in HCI and BCIs
-📚 Co-Author &  Published AR Research (ACM)
-💡 Passionate about Agile (Scrum/SAFe), Data Analytics, and Open Source
-💡 Hobbies : Hiking , Paddle , Tennis , Horse riding, Travel and Concert
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td>
+      🚀 <b>Role:</b> Technical Product Owner / Product Manager<br>
+      📍 <b>Location:</b> Barcelona, Spain (Open to Relocation)<br>
+      🎓 <b>Education:</b> Master's in Cognitive Systems and Interactive Media (UPF) | BSc. Computer Science<br>
+      💻 <b>Focus:</b> Full-Stack, AI, Web Development & Human-Computer Interaction (HCI / BCIs)<br>
+      📚 <b>Research:</b> Published AR Research Co-Author (ACM)<br>
+      💡 <b>Mindset:</b> Passionate about Agile workflows (Scrum/SAFe), Data Analytics, and Open Source
+    </td>
+  </tr>
+</table>
+
+### [HOBBIES & INTERESTS]
+⛺ Hiking | 🎾 Paddle & Tennis | 🏇 Horse Riding | ✈️ Travel | 🎸 Concerts
 
 ---
 
