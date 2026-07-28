@@ -3,20 +3,6 @@
 <h3 align="center">Software Engineer | AI & Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/Loza01">
-    <img src="https://img.shields.io/github/followers/Loza01?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://loza01.github.io/LozaMamo/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/loza-tadesse">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://x.com/lozatmamo?s=21">
-  <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" />
-</a>
-
-<p align="center">
 
 <a href="mailto:lozatmamo@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
