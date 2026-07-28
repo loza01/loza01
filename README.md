@@ -32,8 +32,4 @@
 </div>
 ## 📊 GitHub Statistics
 
-## 💻 Most Used Languages
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loza01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=450" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loza01&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=repo1,repo2" />
