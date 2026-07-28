@@ -38,21 +38,6 @@
   <img src="https://img.shields.io/badge/𝕏-Follow_@lozatmamo-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-</p>
-
-<p align="center">
-
-📧 <b>Email:</b> <a href="mailto:lozatmamo@gmail.com">lozatmamo@gmail.com</a> •
-📍 <b>Barcelona, Spain</b> •
-🌍 <b>Open to Relocation</b>
-
-</p>
-
-<p align="center">
-⭐ <b>If you like my projects, consider following me on <a href="https://x.com/lozatmamo?s=21">𝕏 (@lozatmamo)</a> and GitHub!</b> 🚀
-</p>
-
----
 
 # 📊 GitHub Stats
 
