@@ -24,9 +24,6 @@
   <img src="https://img.shields.io/badge/𝕏-Follow_@lozatmamo-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-
-# 📊 GitHub Stats
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Loza01&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
