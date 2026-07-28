@@ -1,7 +1,4 @@
 <h3 align="center"> Hi there, I'm Loza 👋 </h3>
-
-> *"I enjoy building scalable applications, exploring AI, and creating software that solves real-world problems."*
-
 <p align="center">
 
 <a href="mailto:lozatmamo@gmail.com">
