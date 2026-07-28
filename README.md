@@ -1,69 +1,8 @@
 # Hi there, I'm Loza 👋
 
-
-<div align="center">
-
-# 👋 Hi, I'm **Loza Tadesse**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Building+Ideas+into+Reality+🚀" alt="Typing SVG" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Loza01&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Loza01?label=Followers&style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/Loza01?affiliations=OWNER&style=for-the-badge" />
-</p>
-
-<p>
-
-<a href="https://github.com/Loza01">
-<img src="https://img.shields.io/badge/GitHub-Loza01-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/loza-tadesse">
-<img src="https://img.shields.io/badge/LinkedIn-Loza_Tadesse-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://x.com/lozatmamo?s=21">
-<img src="https://img.shields.io/badge/𝕏-Follow_%40lozatmamo-000000?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="https://loza01.github.io/LozaMamo/">
-<img src="https://img.shields.io/badge/🌐-Portfolio-00C853?style=for-the-badge"/>
-</a>
-
-</p>
-
-</div>
-
----
-
-## 🚀 About Me
-
-```yaml
-name: Loza Tadesse
-location: Barcelona, Spain 🇪🇸
-role: Software Engineer
-interests:
-  - Artificial Intelligence
-  - Full-Stack Development
-  - Cloud Computing
-  - Open Source
-status: Open to Relocation 🌍
-```
-
 > *"I enjoy building scalable applications, exploring AI, and creating software that solves real-world problems."*
 
 ---
-
-
-
-
-
-
-
-
-
-
 
 <h3 align="center">Software Engineer | AI & Full-Stack Developer</h3>
 
