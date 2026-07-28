@@ -15,16 +15,6 @@
   <a href="https://x.com/lozatmamo?s=21">
   <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" />
 </a>
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-I’m always open to discussing software engineering, AI, open-source, and exciting new opportunities.<br>
-If you enjoy my work, feel free to ⭐ my repositories and <b>follow me on X</b> for updates, projects, and tech content!
-</p>
 
 <p align="center">
 
