@@ -6,7 +6,9 @@
 I enjoy creating practical software, exploring new technologies, and writing clean, maintainable code. Most of my projects are open source and built to solve real problems.
 
 ---
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loza01&theme=github_dark" />
+</p>
 ## 🚀 Featured Projects
 
 > Replace these with your best repositories.
