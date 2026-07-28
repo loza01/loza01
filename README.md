@@ -30,6 +30,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Loza01&theme=github-dark-blue&hide_border=true"/>
 
 </div>
-## 📊 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loza01&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=repo1,repo2" />
