@@ -1,108 +1,106 @@
-# TheAbbie
+```md
+# Hi, I'm Loza 👋
 
-<p align='center'><img src="https://theabbie.github.io/files/logo.png" alt="TheAbbie" width="100" height="100"></p>
+> Software Engineer focused on backend systems, automation, AI, and building useful tools.
 
-[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=313131&color=313131)](https://github.com/theabbie.gpg)
+I enjoy creating practical software, exploring new technologies, and writing clean, maintainable code. Most of my projects are open source and built to solve real problems.
 
-![](https://hit.yhype.me/github/profile?user_id=17960677)
+---
 
-* [About Me](#about-me)
-* [My Octocat](#my-octocat)
-* [My Blog](#my-blog)
-* [Tasks](#tasks)
-* [10 Ways to contact me](#10-ways-to-contact-me)
-* [Donate](#donate)
+## 🚀 Featured Projects
 
-## About Me
+> Replace these with your best repositories.
 
-Hello World, I am Abhishek Choudhary
+### 🔹 Project Name
+Short description explaining what the project does and why it exists.
 
-A pseudo-introvert, a web developer, and a Maker
+**Stack**
 
-https://theabbie.github.io
+`Go` · `PostgreSQL` · `Docker`
 
-[Resume](https://theabbie.github.io/resume.pdf)
+---
 
-[Leetcode](https://leetcode.com/theabbie)
+### 🔹 Project Name
+Short description explaining the problem it solves.
 
-<a href="https://profile.codersrank.io/user/theabbie">![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=theabbie)</a>
+**Stack**
 
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-1526-9128" href="https://orcid.org/0000-0003-1526-9128" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-1526-9128</a></div>
+`Python` · `FastAPI` · `Redis`
 
-<a href="https://codetrace.com/users/theabbie"><img src="https://codetrace.com/widget/theabbie" width="220" height="50" /></a>
+---
 
-<img src="http://www.hackthebox.eu/badge/image/370240" alt="Hack The Box">
+### 🔹 Project Name
+Brief description.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=theabbie&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabbie&layout=compact&theme=radical" />
+**Stack**
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theabbie&theme=github_dark)
+`TypeScript` · `React` · `Node.js`
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabbie&theme=github_dark)
+---
 
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=theabbie)
+## 🛠 Tech Stack
 
-<table>
-<caption>Abhishek Chaudhary</caption>
-<thead>
-<tr>
-<th colspan="2">Quick Info</th>
-</tr>
-</thead>
-<tbody>
-<tr><th scope='row'>Name</th><td>Abhishek Chaudhary</td></tr>
-<tr><th scope='row'>Born</th><td><time datetime="2002-01-11 08:00">11 January, 2002</time></td></tr>
-<tr><th scope='row'>Education</th><td>B.E.</td></tr>
-<tr><th scope='row'>Alma mater</th><td>Fr C Rodrigues institute of technology</td></tr>
-<tr><th scope='row'>Nationality</th><td>Indian</td></tr>
-<tr><th scope='row'>Occupation</th><td>Web Developer</td></tr>
-<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, SEO</td></tr>
-</tbody>
-</table>
+### Languages
 
-## my octocat
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img src="https://theabbie.github.io/files/octocat.png" alt="TheAbbie" width="200" height="200">
+### Backend
 
-## my blog
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-https://theabbie.github.io/blog
+### Database
 
-## tasks
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- [x] Born
-- [x] Got a job
-- [x] Find life partner
-- [ ] Married
-- [ ] Have children
-- [ ] Die
+### DevOps
 
-## 10 ways to contact me
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<ul>
-<li><a href="mailto:abhishek7gg7@gmail.com" rel="me">Mail</a>
-<li><a href="https://www.instagram.com/sasta_abbie/" rel="me">Instagram DM</a>
-<li><a href="https://t.me/theabbie" rel="me">Telegram</a>
-<li><a href="https://wa.me/918928412138?text=Hi" rel="me">Whatsapp</a>
-<li><a href="https://linkedin.com/in/theabbie" rel="me">Linkedin</a>
-<li><a href="https://twitter.com/theabbiee" rel="me">Twitter</a>
-<li><a href="https://www.snapchat.com/add/abbie_shaikh" rel="me">Snapchat</a>
-<li><a href="https://icq.im/theabbie" rel="me">ICQ</a>
-<li><a href="https://www.facebook.com/abhishek.vice.versa" rel="me">Facebook</a>
-<li>Call</li>
-</li>
-</ul>
+---
 
-## donate
+## 📊 GitHub Stats
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K31DJFA)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=loza01&show_icons=true&hide_border=true&rank_icon=github"/>
 
-[![Patreon](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://patreon.com/theabbie)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loza01&layout=compact&hide_border=true"/>
+</p>
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/theabbie)
+---
 
-[![Donor Box](https://d1iczxrky3cnb2.cloudfront.net/button-medium-blue.png)](https://donorbox.org/theabbie)
+## 🌱 Currently
 
-[![Donate on opencollective](https://opencollective.com/webpack/donate/button@2x.png?color=blue)](https://opencollective.com/theabbie)
+- Building open-source developer tools
+- Exploring AI agents and automation
+- Learning distributed systems
+- Improving developer experience
 
-<!-- [![Donate](https://button.flattr.com/button-compact-static-100x17.png)](https://flattr.com/@theabbie) -->
+---
+
+## 💭 Philosophy
+
+> Build software that is simple, reliable, and useful.
+
+I enjoy turning ideas into production-ready applications while keeping code clean, maintainable, and well documented.
+
+---
+
+## 📫 Connect
+
+- 🌐 Website: https://yourwebsite.dev
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 📧 Email: your@email.com
+
+---
+
+<p align="center">
+Thanks for stopping by! ⭐ If you like one of my projects, consider giving it a star.
+</p>
+```
