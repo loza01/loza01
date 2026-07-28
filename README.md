@@ -31,11 +31,3 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Loza01&theme=github-compact&hide_border=true"/>
-
-</div>
-
