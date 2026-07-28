@@ -1,41 +1,62 @@
-# Hi there, I'm Loza Mamo! 👋
+<div align="center">
+  <img src="https://demolab.com!+👋;Software+Developer+🚀;Based+in+Barcelona+🌍" alt="Typing SVG" />
+
+  <p align="center">
+    <strong>Turning complex design challenges into elegant, highly-optimized web applications.</strong>
+  </p>
+
+  <p align="center">
+    <a href="https://x.com">
+      <img src="https://shields.io" alt="Follow on X" />
+    </a>
+  </p>
+</div>
+
+---
 
 ### 🚀 About Me
-I am a passionate **Software Developer** currently based in **Barcelona** and **open to relocation** opportunities worldwide. I love building clean, efficient, and user-centric web applications, turning complex problems into elegant digital solutions.
-
-- 🌍 **Location:** Barcelona, Spain (Open to Relocation)
-- 🔭 **Current Focus:** Enhancing my portfolio and collaborating on open-source projects
-- 🌱 **Learning:** Exploring advanced frontend architecture and cloud deployment
-- 💬 **Ask me about:** Responsive design, web optimization, and modern JavaScript frameworks
+- 🌍 **Location:** Barcelona, Spain *(Open to Global Relocation)*
+- 🔭 **Current Focus:** Enhancing production-ready architecture and design optimization
+- 🌱 **Learning Stack:** Advanced cloud infrastructure and backend deployment patterns
+- 💼 **Professional Network:** Connect with me on [LinkedIn](https://linkedin.com)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Digital Toolkit
 
-| Frontend | Backend & Databases | Tools & Hosting |
-| :--- | :--- | :--- |
-| HTML5, CSS3, JavaScript | Node.js | Git, GitHub |
-| Responsive Web Design | REST APIs | GitHub Pages, VS Code |
+#### Frontend Development
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![Responsive Design](https://shields.io)
 
----
+#### Backend & Core Infrastructure
+![NodeJS](https://shields.io)
+![REST API](https://shields.io)
 
-### 📊 GitHub Analytics
-![Loza's GitHub Stats](https://vercel.app)  
-![Top Langs](https://vercel.app)
-
----
-
-### 🚀 Let's Connect & Keep in Touch!
-
-If you like my work, **follow me on X (Twitter)** where I share my development journey, tech insights, and life in Barcelona! 
-
-[![Follow on X](https://shields.io)](https://x.com)
+#### Tools, Workflows & Hosting
+![Git](https://shields.io)
+![GitHub Pages](https://shields.io)
+![VS Code](https://shields.io)
 
 ---
 
-### 📫 Find Me Online
-* 🌐 **Portfolio:** Check out my work on my [Personal Website](https://github.io)
-* 💼 **Professional Network:** Connect with me on [LinkedIn](https://linkedin.com)
-* 📸 **Instagram:** See my life in Barcelona on [Instagram (@lamlozi)](https://instagram.com)
-* 📧 **Direct Email:** Reach me directly at [lozatmamo@gmail.com](mailto:lozatmamo@gmail.com)
+### 📊 Performance Analytics & Dashboard
 
+<div align="center">
+  <img src="https://vercel.app" alt="Loza's GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Langs" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
+</div>
+
+---
+
+### 📫 Let's Collaborate
+* 🌐 **Portfolio Site:** [loza01.github.io/LozaMamo/](https://github.io)
+* 📸 **Instagram:** [@lamlozi](https://instagram.com)
+* 📧 **Direct Inquiry:** [lozatmamo@gmail.com](mailto:lozatmamo@gmail.com)
