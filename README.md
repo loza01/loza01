@@ -1,10 +1,6 @@
-# Hi there, I'm Loza 👋
+<h3 align="center"> Hi there, I'm Loza 👋 </h3>
 
 > *"I enjoy building scalable applications, exploring AI, and creating software that solves real-world problems."*
-
----
-
-<h3 align="center">Software Engineer | AI & Full-Stack Developer</h3>
 
 <p align="center">
 
