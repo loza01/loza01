@@ -1,7 +1,4 @@
 <h3 align="center"> Hi there, I'm Loza 👋 </h3>
-<img src="https://glitch.me" alt="Visitor Count" />
-
-
 
 <p align="center">
 
