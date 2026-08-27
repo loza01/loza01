@@ -1,4 +1,6 @@
 <h3 align="center"> Hi there, I'm Loza 👋 </h3>
+![Visitor Count](https://komarev.com)
+
 <p align="center">
 
 <a href="mailto:lozatmamo@gmail.com">
