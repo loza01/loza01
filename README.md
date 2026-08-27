@@ -1,5 +1,6 @@
 <h3 align="center"> Hi there, I'm Loza 👋 </h3>
-![Visitor Count](https://glitch.me)
+<img src="https://glitch.me" alt="Visitor Count" />
+
 
 
 <p align="center">
